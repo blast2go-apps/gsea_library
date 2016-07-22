@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="lib.gsea.feature"
+      label="GSEA Library App"
+      version="1.0.0.qualifier"
+      provider-name="BioBam Bioinformatics S.L.">
+
+   <description url="http://www.example.com/description">
+      This App allows you to run GSEA (Gene Set Enrichment Analysis) directly from within Blast2GO.
+
+This App contains the libraries and executables needed to run GSEA. Remember: you need to install this App to be able to use GSEA.
+   </description>
+
+   <copyright url="http://blast2go-apps.github.io/gsea/update/">
+      [Enter Copyright Description here.]
+   </copyright>
+
+   <license url="&quot;&quot;">
+      This App is based on the command-line version of Java GSEA (GSEA jar) which is available uder the GNU Lesser General Public Licence (LGPL).
+https://www.gnu.org/licenses/lgpl.txt
+   </license>
+
+   <plugin
+         id="lib.gsea"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"/>
+
+</feature>
