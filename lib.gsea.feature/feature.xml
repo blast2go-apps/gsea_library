@@ -2,7 +2,7 @@
 <feature
       id="lib.gsea.feature"
       label="GSEA Library App"
-      version="1.0.0.qualifier"
+      version="1.1.0.qualifier"
       provider-name="BioBam Bioinformatics S.L.">
 
    <description url="http://www.example.com/description">
@@ -24,6 +24,7 @@ https://www.gnu.org/licenses/lgpl.txt
          id="lib.gsea"
          download-size="0"
          install-size="0"
-         version="0.0.0"/>
+         version="0.0.0"
+         unpack="false"/>
 
 </feature>
